@@ -1,14 +1,15 @@
 #Portfolio 
 
-This portfolio page is inspired by the template, which could be accessed through the link http://startbootstrap.com/template-overviews/agency/
-It was created by [Start Bootstrap](http://startbootstrap.com/). 
+## About
+
+This portfolio page is inspired by the template, which could be accessed through the [link](http://startbootstrap.com/template-overviews/agency/). 
+The portfolio shows some of my works and projects. 
+Nice to meet you guys!
+
 
 #### Creator
 
 Start Bootstrap was created by and is maintained by **David Miller**, Managing Partner at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
 
 Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
