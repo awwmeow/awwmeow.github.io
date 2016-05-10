@@ -1,10 +1,8 @@
-#Portfolio 
-
-## About
+##Portfolio 
 
 This portfolio page is inspired by the template, which could be accessed through the [link](http://startbootstrap.com/template-overviews/agency/). 
 The portfolio shows some of my works and projects. 
-Nice to meet you guys!
+### Nice to meet you guys!
 
 
 #### Creator
